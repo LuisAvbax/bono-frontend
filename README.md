@@ -1,4 +1,4 @@
-# My Vue Project
+# Bono front end APP
 
 CRUD operations for Rules
 
