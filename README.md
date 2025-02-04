@@ -17,7 +17,7 @@ This project implements a Vue-based frontend that communicates with a Spring Boo
 ## Getting Started
 
 1. **Clone the repository**  
-   `git clone https://github.com/your-username/my-vue-project.git`
+   `git clone https://github.com/LuisAvbax/bono-frontend.git`
 
 2. **Navigate into the project directory**  
    `cd my-vue-project`
